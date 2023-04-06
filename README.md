@@ -8,6 +8,11 @@ For some time, I have been attracted to the IT field, so I took an accredited Ja
 
 You can download my CV here: https://github.com/MariaTeodoraSandu/Portfolio/blob/main/CV%20-%20Maria%20Teodora%20Sandu.pdf
 
+# Recommendations
+
+- Edina Moldvai (Teacher): https://www.linkedin.com/in/maria-teodora-sandu-bb0535270/details/recommendations/
+- Andy Sinpetrean (Co-founder IT Factory): https://github.com/MariaTeodoraSandu/Portfolio/blob/main/Sandu%20Maria%20Teodora%20-%20Scrisoare%20de%20recomandare%20-%20Java.docx.pdf
+
 # Skills
 
 - MySQL Workbench
